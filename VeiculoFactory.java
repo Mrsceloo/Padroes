@@ -1,0 +1,3 @@
+interface VeiculoFactory {
+    Veiculo criarVeiculo();
+}
